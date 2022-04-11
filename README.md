@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">Looking for opportunities!</h3>
 
-- 🌱 I’m currently learning **Redux, React Testing Library, Data-Structures,**
+
 
 - 📫 How to reach me **sdclaybaugh@gmail.com**
 
